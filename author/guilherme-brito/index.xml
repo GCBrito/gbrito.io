@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guilherme Brito</title>
+    <link>http://gbrito.io/author/guilherme-brito/</link>
+      <atom:link href="http://gbrito.io/author/guilherme-brito/index.xml" rel="self" type="application/rss+xml" />
+    <description>Guilherme Brito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 ©</copyright>
+    <image>
+      <url>http://gbrito.io/media/IMG-20200528-WA0020</url>
+      <title>Guilherme Brito</title>
+      <link>http://gbrito.io/author/guilherme-brito/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Guilherme Brito</title>
+    <link>http://gbrito.io/tags/</link>
+      <atom:link href="http://gbrito.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>2020 ©</copyright><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://gbrito.io/media/IMG-20200528-WA0020</url>
+      <title>Tags</title>
+      <link>http://gbrito.io/tags/</link>
+    </image>
+    
+  </channel>
+</rss>
